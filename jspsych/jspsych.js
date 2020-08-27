@@ -1,4 +1,5 @@
 /**
+ * <script src="https://oakfrech.github.io/jsPsychSheet/jspsych/jspsych.js"></script>
  * jspsych.js
  * Josh de Leeuw
  *
